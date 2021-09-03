@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development, Project Management, CyberSecurity**
 
-- 💬 Ask me about **Python,React, Ethical Hacking, Unity Game Engine **
+- 💬 Ask me about **Python,React, Ethical Hacking, Unity Game Engine**
 
 - 📫 How to reach me **singhrahulkumar564@gmail.com**
 
