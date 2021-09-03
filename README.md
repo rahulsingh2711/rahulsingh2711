@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [singhrahulkumar](http://singhrahulkumar.somee.com/)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekshahcodes&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingh2711" /> </p><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulsingh2711&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingh2711" /> </p><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +41,7 @@
 <p align="center">
 	<img
 		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com?user=vivekshahcodes&theme=algolia"
+		src="https://github-readme-streak-stats.herokuapp.com?user=rahulsingh2711&theme=algolia"
 		alt="rahulsingh2711"
 	/>
 </p>
