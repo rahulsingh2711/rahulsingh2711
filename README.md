@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Here to learn, explore and create something innovative.</h3>
 
+
+
 - 🔭 I’m currently working on **Smart Shopping System**
 
 - 🌱 I’m currently learning **MERN stack , React native**
@@ -12,6 +14,8 @@
 - 📫 How to reach me **singhrahulkumar564@gmail.com**
 
 - 📄 Know about my experiences [singhrahulkumar](http://singhrahulkumar.somee.com/)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vivekshahcodes&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingh2711" /> </p><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +41,10 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsingh2711&show_icons=true&locale=en&layout=compact"
         alt="rahulsingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsingh2711&" alt="rahulsingh" /></p>
+<p align="center">
+	<img
+		align="center"
+		src="https://github-readme-streak-stats.herokuapp.com?user=vivekshahcodes&theme=algolia"
+		alt="rahulsingh2711"
+	/>
+</p>
